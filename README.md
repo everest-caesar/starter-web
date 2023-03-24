@@ -7,3 +7,8 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## git and git-hub training
+ this is the best git course 
+
+ ## Git comparison lecture
+    this is the best
+    
